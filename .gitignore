@@ -43,3 +43,10 @@ ctags
 # Cache #
 ## CSpell ##
 .cspellcache
+
+# Artifacts #
+/pkg/
+/src/
+*.deb
+*.tar.zst
+*.tar.zst.sig
